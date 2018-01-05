@@ -1,0 +1,3 @@
++10 tugas selesai
++5 untuk 1 controller + banyak function
+= total +15
